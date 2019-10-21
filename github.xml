@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="d40e6e44-3315-439d-bff8-3495444bca51" name="pierre.a.gross@protonmail.com">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
