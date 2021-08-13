@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="callbacks" type="AUTO_DETECTED" />
       <mapping pattern="portfolio.csv" type="PLAIN_TEXT" />
+      <mapping ext="sav" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="csv" approved="true" type="CSV file" />
